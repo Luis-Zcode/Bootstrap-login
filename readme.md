@@ -2,4 +2,4 @@
 
 En este login se utilizo bootstrap 
 
-![alt text](image.png)
+![alt text](assetts/login.png)
